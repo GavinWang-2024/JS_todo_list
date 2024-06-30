@@ -1,3 +1,5 @@
+<img width="1680" alt="Screenshot 2024-06-30 at 5 08 38 PM" src="https://github.com/GavinWang-2024/JS_todo_list/assets/169739616/376bba47-96da-459c-906e-2f30575e892c">
+<img width="1680" alt="Screenshot 2024-06-30 at 5 08 59 PM" src="https://github.com/GavinWang-2024/JS_todo_list/assets/169739616/84193788-9c88-4d62-8b55-962637cee07f">
 
 
 # JS_todo_list
